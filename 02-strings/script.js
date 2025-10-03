@@ -2,7 +2,7 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
-const name = ("Luca");
+const name = "Luca";
 console.log(name);
 
 
@@ -13,7 +13,7 @@ console.log(name);
 // Stampa tutti i valori nella console.
 
 const number = 2;
-const text = ("ciao");
+const text = "ciao";
 const bool = true;
 
 
